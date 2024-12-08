@@ -102,7 +102,7 @@ var config = {
         },
         {
             id: 'Mumbai',
-            alignment: 'left',
+            alignment: 'right',
             hidden: false,
             title: 'Mumbai',
             description: "Mumbai is unfortunately living a nightmare when it comes to air pollution. With over 22 million people and countless industries, the air quality in Mumbai is a major concern for its residents. According to recent data, Mumbai has recorded PM2.5 levels that are 4 times higher than the national safe limit. With such alarming statistics, it's crucial that we take action to reduce pollution in this vibrant city.",
@@ -158,7 +158,7 @@ var config = {
         },
         {
             id: 'Kolkata',
-            alignment: 'left',
+            alignment: 'right',
             hidden: false,
             title: 'Kolkata',
             description: "Kolkata is unfortunately not immune to India's air pollution crisis. With a population of over 14 million people, Kolkata's air is heavily polluted due to a variety of sources, including industrial emissions, vehicular traffic, and construction activity. According to the Central Pollution Control Board, Kolkata's Air Quality Index (AQI) often reaches hazardous levels during the winter months, with levels of PM2.5 particulate matter being a major concern. A recent study found that Kolkata has the highest concentration of PM2.5 among all major Indian cities.",
@@ -214,7 +214,7 @@ var config = {
         },
         {
             id: 'Raipur',
-            alignment: 'left',
+            alignment: 'right',
             hidden: false,
             title: 'Raipur',
             description: "Raipur has been experiencing a significant increase in air pollution levels in recent years. According to data from the Central Pollution Control Board, Raipur's air quality index (AQI) in 2020 was consistently above 150, which is considered unhealthy. The main contributors to air pollution in Raipur are transportation and industrial activities, including thermal power plants and steel factories. In addition, during the winter months, the city experiences a phenomenon known as inversion, where the cold air gets trapped near the surface, trapping pollutants and exacerbating the problem.",
@@ -270,7 +270,7 @@ var config = {
         },
         {
             id: 'Punjab',
-            alignment: 'left',
+            alignment: 'right',
             hidden: false,
             title: 'Punjab',
             description: "Punjab is facing a significant air pollution problem due to stubble burning after the rice harvest season. The state has some of the highest levels of PM2.5 pollution in the country, with cities like Amritsar, Ludhiana, and Jalandhar experiencing hazardous air quality levels during peak seasons. The problem is compounded by industrial pollution and vehicular emissions in urban areas. According to studies, air pollution in Punjab is responsible for a significant increase in respiratory illnesses and a decline in life expectancy.",
@@ -326,7 +326,7 @@ var config = {
         },
         {
             id: 'Uttar-Pradesh',
-            alignment: 'left',
+            alignment: 'right',
             hidden: false,
             title: 'Uttar Pradesh',
             description: "Uttar Pradesh is a state in northern India with a rapidly growing population and industrial sector, contributing to its air pollution challenges. In particular, the cities of Lucknow and Kanpur have been identified as hotspots for air pollution, with high levels of particulate matter and nitrogen dioxide. Agricultural activities like stubble burning and dust from construction sites also contribute to the problem. According to recent data, air pollution in Uttar Pradesh is responsible for approximately 15% of the state's annual deaths, highlighting the urgent need for effective solutions to address this growing public health concern.",
@@ -382,7 +382,7 @@ var config = {
         },
         {
             id: 'Conclusion',
-            alignment: 'left',
+            alignment: 'right',
             hidden: false,
             title: 'Conclusion',
             description: "After analyzing the data, it is clear that air pollution is a significant problem in India. The high levels of particulate matter, nitrogen oxide, and sulfur dioxide in many cities pose a severe risk to the health of residents and the environment. Although steps have been taken to address this issue, such as the implementation of the National Clean Air Program, more needs to be done to ensure that air pollution levels decrease and remain at safe levels. It is crucial that policymakers, industries, and individuals take responsibility and make concerted efforts to reduce air pollution for the well-being of the country and its people.",
