@@ -44,7 +44,7 @@ var config = {
         },
         {
             id: 'India',
-            alignment: 'left',
+            alignment: 'right',
             hidden: false,
             title: 'India',
             description: 'Air pollution in India is a growing concern, with the country consistently ranking among the top nations with the worst air quality. In fact, according to the World Health Organization, 14 out of the 15 most polluted cities in the world are in India. This problem has far-reaching consequences, affecting the health and wellbeing of millions of people across the country. Studies show that air pollution is responsible for a significant increase in respiratory diseases, heart diseases, and even premature deaths. The situation demands immediate attention and action from individuals, corporations, and the government to reduce air pollution levels and ensure a healthier future for all.',
